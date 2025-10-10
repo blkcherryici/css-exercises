@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.blacknpink
+{color: black; background-color: pink; }
+
+#one 
+{color: blue; font-family:Georgia, 'Times New Roman', Times, serif}
+
+.blacknpinkbold
+{color: black; font-weight: bold; background-color: pink;}
+
+#two
+{color: black; background-color: lightgreen; font-weight: 900 }
+    
+    /* Add CSS Styling */
