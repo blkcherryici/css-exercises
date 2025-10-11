@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+div
+    {background-color: rgb(255, 254, 255); text-align: center; padding: 10px; width: 280px}
+    
+    button
+    { font-size: 24px; font-family: Helvetica, Times New Roman, sans-serif;}
+
+    #black
+    {color: white; background-color: black;}
+    
+    #yellow
+    {color: black; background-color: yellow;}/* Add CSS Styling */    
