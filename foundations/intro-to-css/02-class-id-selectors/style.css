@@ -1,13 +1,15 @@
-.blacknpink
-{color: black; background-color: pink; }
+.odd
+{color: black; background-color: pink; font-family: Veranda, DejaVu Sans, sans-serif;}
 
-#one 
-{color: blue; font-family:Georgia, 'Times New Roman', Times, serif}
+.adjust-font-size {font-size: 24px}
 
-.blacknpinkbold
-{color: black; font-weight: bold; background-color: pink;}
+#blue 
+{color: blue; font-family:Georgia; font-weight: bolder}
 
-#two
-{color: black; background-color: lightgreen; font-weight: 900 }
+/*.blacknpinkbold
+{color: black; font-family: sans-serif; font-weight: 550; background-color: pink;} */
+
+#green
+{color: black; background-color: lightgreen; font: bold 24px sans-serif}
+
     
-    /* Add CSS Styling */
