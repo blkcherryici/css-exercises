@@ -1,5 +1,5 @@
 body {
-  background: #eee;
+  background: #110101;
   font-family: sans-serif;
 }
 
@@ -21,8 +21,10 @@ body {
 }
 
 .content {
+  padding: 20px;
   background: #e3f4ff;
-  margin: 20px; text-align: left;  
+  margin-left: 8px; 
+  text-align: left;  
   
 }
 
